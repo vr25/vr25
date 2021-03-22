@@ -1,6 +1,4 @@
-### Hi there! 👋
-
-## I am currently pursuing a Master's in Computer Science at Rensselaer Polytechnic Institute, New York. My research is in Deep Learning and Natural Language Processing, focused on Financial NLP.
+### Hi there! 👋 I am currently pursuing a Master's in Computer Science at Rensselaer Polytechnic Institute, New York. My research is in Deep Learning and Natural Language Processing, focused on Financial NLP.
 
 ### Connect with me:
 
