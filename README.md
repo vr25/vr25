@@ -11,7 +11,7 @@ I am currently pursuing a Master's in Computer Science at Rensselaer Polytechnic
 ---
 [website]: https://vr25.github.io/
 [googlescholar]: https://scholar.google.com/citations?user=cJdK7lUAAAAJ
-[linkedin]: https://in.linkedin.com/in/vipula-rawte-a2819679
+[linkedin]: https://in.linkedin.com/in/vipula-rawte
 [twitter]: https://twitter.com/vrawte
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vr25.vr25)
