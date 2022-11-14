@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I am currently pursuing a Master's in Computer Science at Rensselaer Polytechnic Institute, New York. My research is in Deep Learning and Natural Language Processing, focused on Financial NLP.
+I am currently a Ph.D. student studying Computer Science at the AI Institute, University of South Carolina. My research is in Knwoledge Graphs and Natural Language Processing (Language Modeling).
 
 ### Connect with me:
 
