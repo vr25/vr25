@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I am currently a Ph.D. student studying Computer Science at the AI Institute, University of South Carolina. My research is in Knwoledge Graphs and Natural Language Processing (Language Modeling).
+I am currently a Ph.D. student studying Computer Science at the AI Institute, University of South Carolina. My research is in Knowledge Graphs and Natural Language Processing (Language Modeling).
 
 ### Connect with me:
 
